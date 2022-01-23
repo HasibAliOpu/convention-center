@@ -3,3 +3,18 @@
 body{
     font-family: 'Nunito', sans-serif;
 }
+.hot-card{
+    color: white;
+    background-color:mediumturquoise;
+}
+.round{
+    border-radius: 12px;
+}
+.fa-check-circle{
+    font-size:18px;
+    color:rgb(43, 88, 139);
+}
+.btn-bg{
+    border: 1px solid rgb(226, 226, 236);
+    background-color: #ffffff;
+}
