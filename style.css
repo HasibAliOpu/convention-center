@@ -1,24 +1,40 @@
+/* font  */
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@500&display=swap');
 
 body{
     font-family: 'Nunito', sans-serif;
 }
-.hot-card{
+/********************
+   card section css
+ *******************/
+.best-card{
     color: white;
     background-color:mediumturquoise;
 }
-.round{
+ /*****************
+   border radius 
+  ****************/
+.radius{
     border-radius: 12px;
 }
+ /******************
+  check icons css  
+ ******************/
 .fa-check-circle{
     font-size:18px;
-    color:rgb(43, 88, 139);
+    color:steelblue;
 }
+ /*************************************
+   card button background css sheet 
+ *************************************/
 .card-btn-bg{
     border: 1px solid rgb(226, 226, 236);
     background-color: #ffffff;
 }
- 
+ /*************************** 
+  footer section css sheet
+ *****************************/
+
 .footer-left-section{
     padding-top: 60px;
 }
@@ -27,3 +43,5 @@ body{
     text-align: center;
     padding-top: 33px;
 }
+
+/******************************************************* The End *****************************************************************************/
