@@ -14,7 +14,16 @@ body{
     font-size:18px;
     color:rgb(43, 88, 139);
 }
-.btn-bg{
+.card-btn-bg{
     border: 1px solid rgb(226, 226, 236);
     background-color: #ffffff;
+}
+ 
+.footer-left-section{
+    padding-top: 60px;
+}
+
+.footer-right-section{
+    text-align: center;
+    padding-top: 33px;
 }
